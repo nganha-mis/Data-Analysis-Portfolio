@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Hạ! I'm a final-year student majoring in **Management Information Systems** at National Economics University, Hanoi (GPA 3.8/4.0, Vietcombank Scholarship 2025).
+Hi, I'm Hạ! I'm a final-year student majoring in **Management Information Systems** at National Economics University, Hanoi.
 
 I have a strong interest in data analytics, business intelligence, and turning raw data into actionable insights. My experience spans the full analytics workflow - from data cleaning in SQL to building interactive dashboards in Tableau and Power BI, and presenting findings as data-driven business recommendations.
 
