@@ -1,12 +1,12 @@
-# Bùi Ngân Hạ — Data Analyst Portfolio
+# Bùi Ngân Hạ - Data Analyst Portfolio
 
 ## About
 
 Hi, I'm Hạ! I'm a final-year student majoring in **Management Information Systems** at National Economics University, Hanoi (GPA 3.8/4.0, Vietcombank Scholarship 2025).
 
-I have a strong interest in data analytics, business intelligence, and turning raw data into actionable insights. My experience spans the full analytics workflow — from data cleaning in SQL to building interactive dashboards in Tableau and Power BI, and presenting findings as data-driven business recommendations.
+I have a strong interest in data analytics, business intelligence, and turning raw data into actionable insights. My experience spans the full analytics workflow - from data cleaning in SQL to building interactive dashboards in Tableau and Power BI, and presenting findings as data-driven business recommendations.
 
-I'm particularly drawn to **game analytics and player behavior analysis**, having completed an end-to-end Mobile In-App Purchase project that mirrors real game studio workflows. I enjoy finding the "counterintuitive" insight hidden in data — the kind that challenges assumptions and leads to better decisions.
+I'm particularly drawn to **game analytics and player behavior analysis**, having completed an end-to-end Mobile In-App Purchase project that mirrors real game studio workflows. I enjoy finding the "counterintuitive" insight hidden in data - the kind that challenges assumptions and leads to better decisions.
 
 📄 My CV: [[[CV_DA_Intern_BuiNganHa.pdf](https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/c690e149598ad8764844b9365497052173eb3d47/CV_DA_Intern_BUINGANHA.pdf))]]
 🔗 LinkedIn: [[linkedin.com/in/ha-ngan](www.linkedin.com/in/nganha-bui)]
@@ -32,9 +32,9 @@ I'm particularly drawn to **game analytics and player behavior analysis**, havin
 ### 1. Mobile In-App Purchase Analytics
 
 **Tools:** SQL Server · Tableau  
-**Dashboard:** [[View on Tableau Public](#) ]((https://public.tableau.com/app/profile/ha.ngan/viz/Project_17783070672660/Story1?publish=yes)) 
+**Dashboard:** [[View on Tableau Public](https://public.tableau.com/app/profile/ha.ngan/viz/Project_17783070672660/Story1?publish=yes)]
 **SQL Scripts:** [`[mobile_iap_cleaning.sql]((https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/e18109db5626da6a0d345355126d8d8993a6bbfa/game_inapp_purchase.sql))`] 
-**Dataset:** [Mobile Game In-App Purchases Dataset 2025 — Kaggle](https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025)
+**Dataset:** [Mobile Game In-App Purchases Dataset 2025 - Kaggle](https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025)
 
 **Goal:** Analyze player spending behavior and in-app purchase patterns of a mobile game to surface monetization insights and actionable recommendations.
 
@@ -60,16 +60,16 @@ End-to-end analytics project on a 3,024-user mobile game IAP dataset. The projec
 **Technology:** SQL Server, Tableau (Calculated Fields, Table Calculations, Dual Axis, Story)
 
 **Key Findings:**
-- 🐋 **68 Whale users (2.2%)** generate **59.3% of total revenue** ($175,583 out of $296,259) — classic Pareto distribution
-- 📉 **No correlation between session length and spending** — Whale users have the shortest avg session (17.9 min) vs Minnow users (20.1 min), yet spend 269x more ($2,582 vs $9.59)
-- 📅 **Tuesday is the highest revenue day** ($51,848, avg $142/transaction) — outperforming Friday ($35,724) by 45%, counter to the common assumption that weekends drive the most purchases
-- 👦 **Teen users (13–17) have the highest avg spend ($119)** — higher than Young adults (18–24) at $59, suggesting current UA targeting may be misaligned
-- 💳 **Debit Card leads in both volume (433 transactions) and avg spend ($129/transaction)** — higher than Apple Pay ($82) by 58%
+- 🐋 **68 Whale users (2.2%)** generate **59.3% of total revenue** ($175,583 out of $296,259) - classic Pareto distribution
+- 📉 **No correlation between session length and spending** - Whale users have the shortest avg session (17.9 min) vs Minnow users (20.1 min), yet spend 269x more ($2,582 vs $9.59)
+- 📅 **Tuesday is the highest revenue day** ($51,848, avg $142/transaction) - outperforming Friday ($35,724) by 45%, counter to the common assumption that weekends drive the most purchases
+- 👦 **Teen users (13–17) have the highest avg spend ($119)** - higher than Young adults (18–24) at $59, suggesting current UA targeting may be misaligned
+- 💳 **Debit Card leads in both volume (433 transactions) and avg spend ($129/transaction)** - higher than Apple Pay ($82) by 58%
 
 **Recommendations:**
-1. Launch a **Whale Retention Program** (VIP perks, exclusive content) — losing 1 Whale = losing avg $2,582
+1. Launch a **Whale Retention Program** (VIP perks, exclusive content) - losing 1 Whale = losing avg $2,582
 2. Shift **Flash Sales to Tuesday–Thursday** instead of weekends
-3. Implement a **First-Week Nurture Campaign** — Day 0 buyers spend $119 avg vs Day 1–3 buyers at $75
+3. Implement a **First-Week Nurture Campaign** - Day 0 buyers spend $119 avg vs Day 1–3 buyers at $75
 4. Adjust **UA targeting** to prioritize Teen and 35+ demographics over Young adults
 
 ---
@@ -91,10 +91,10 @@ Built an interactive Power BI dashboard analyzing tourism data from 2022 to 2025
 
 **Key Findings:**
 - 💰 **Total Revenue: 21,999M VND** across 2022–2025, with peak season in **June–August**
-- 🏖️ Top 3 destinations by revenue: **Phu Quoc (2.86B) · Da Nang (2.75B) · Nha Trang (2.53B)** — all beach destinations
+- 🏖️ Top 3 destinations by revenue: **Phu Quoc (2.86B) · Da Nang (2.75B) · Nha Trang (2.53B)** - all beach destinations
 - 🌊 **Beach tour type leads at 29.49%** of total bookings, followed by Family (21.41%) and Adventure (18.96%)
-- ✅ **Booking Rate: 90.02%** — strong conversion from inquiry to confirmed booking
-- 🔄 **Returning Rate: 66.38%** — 34% of customers do not rebook, representing a significant retention gap
+- ✅ **Booking Rate: 90.02%** - strong conversion from inquiry to confirmed booking
+- 🔄 **Returning Rate: 66.38%** - 34% of customers do not rebook, representing a significant retention gap
 - ⭐ **Average Satisfaction Score: 4.21/5**
 
 **Recommendations:**
@@ -135,7 +135,7 @@ Personal project simulating the role of a Business Analyst and Database Designer
 **Goal:** Design and implement a library management system supporting book catalog, borrowing, and returning operations.
 
 **Description:**  
-Course project covering the full development cycle — from ERD design and database schema to UI implementation. Focused on ensuring data consistency and reducing redundancy across borrowing/returning transactions.
+Course project covering the full development cycle - from ERD design and database schema to UI implementation. Focused on ensuring data consistency and reducing redundancy across borrowing/returning transactions.
 
 **Skills:** ERD design, SQL implementation, business logic, WinForms UI development
 
@@ -156,8 +156,8 @@ Course project covering the full development cycle — from ERD design and datab
 
 ## Education
 
-**National Economics University** — Hanoi, Vietnam  
-College of Technology — Management Information Systems  
+**National Economics University** - Hanoi, Vietnam  
+College of Technology - Management Information Systems  
 *2023 – Present* | GPA: **3.8 / 4.0**  
 🏆 Vietcombank Scholarship 2025  
 
