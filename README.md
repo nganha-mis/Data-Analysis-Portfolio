@@ -8,7 +8,7 @@ I have a strong interest in data analytics, business intelligence, and turning r
 
 I'm particularly drawn to **game analytics and player behavior analysis**, having completed an end-to-end Mobile In-App Purchase project that mirrors real game studio workflows. I enjoy finding the "counterintuitive" insight hidden in data — the kind that challenges assumptions and leads to better decisions.
 
-📄 My CV: [[CV_DA_Intern_BuiNganHa.pdf]]([url](https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/c690e149598ad8764844b9365497052173eb3d47/CV_DA_Intern_BUINGANHA.pdf))
+📄 My CV: [[[CV_DA_Intern_BuiNganHa.pdf](https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/c690e149598ad8764844b9365497052173eb3d47/CV_DA_Intern_BUINGANHA.pdf))]]
 🔗 LinkedIn: [[linkedin.com/in/ha-ngan](www.linkedin.com/in/nganha-bui)]
 📧 Email: buinganha.nitc@gmail.com
 
@@ -32,8 +32,8 @@ I'm particularly drawn to **game analytics and player behavior analysis**, havin
 ### 1. Mobile In-App Purchase Analytics
 
 **Tools:** SQL Server · Tableau  
-**Dashboard:** [[View on Tableau Public](#) ]([url](https://public.tableau.com/app/profile/ha.ngan/viz/Project_17783070672660/Story1?publish=yes)) 
-**SQL Scripts:** [`mobile_iap_cleaning.sql`] 
+**Dashboard:** [[View on Tableau Public](#) ]((https://public.tableau.com/app/profile/ha.ngan/viz/Project_17783070672660/Story1?publish=yes)) 
+**SQL Scripts:** [`[mobile_iap_cleaning.sql]((https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/e18109db5626da6a0d345355126d8d8993a6bbfa/game_inapp_purchase.sql))`] 
 **Dataset:** [Mobile Game In-App Purchases Dataset 2025 — Kaggle](https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025)
 
 **Goal:** Analyze player spending behavior and in-app purchase patterns of a mobile game to surface monetization insights and actionable recommendations.
@@ -77,7 +77,7 @@ End-to-end analytics project on a 3,024-user mobile game IAP dataset. The projec
 ### 2. Vietnam Tourism Revenue & Booking Performance Dashboard
 
 **Tools:** Power BI  
-**Dashboard:** [View on Power BI](#)  
+**Dashboard:** [View on Power BI](https://app.powerbi.com/links/nufdzIT7D3?ctid=7212a37c-41a9-4402-9f69-ac32c6f76e1a&pbi_source=linkShare)  
 **Dataset:** Vietnam Tourism Business Data (2022–2025)
 
 **Goal:** Analyze revenue performance, booking behavior, and customer satisfaction of a Vietnamese travel business across 4 years to identify growth opportunities.
@@ -106,7 +106,10 @@ Built an interactive Power BI dashboard analyzing tourism data from 2022 to 2025
 ### 3. Human Resource Management System
 
 **Tools:** SQL Server · Figma  
-**Code:** [`hr_management.sql`](#) *(update link after upload)*
+**Code:** 
+[`TaoBang.sql`](https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/e18109db5626da6a0d345355126d8d8993a6bbfa/TaoBang.sql) 
+[`NhapLieu.sql`](https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/e18109db5626da6a0d345355126d8d8993a6bbfa/NhapLieu.sql) 
+[`SpTrigger.sql`](https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/e18109db5626da6a0d345355126d8d8993a6bbfa/SPTrigger.sql) 
 
 **Goal:** Analyze and model HR business processes, then design a database system to automate leave tracking and payroll calculation.
 
