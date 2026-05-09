@@ -8,8 +8,8 @@ I have a strong interest in data analytics, business intelligence, and turning r
 
 I'm particularly drawn to **game analytics and player behavior analysis**, having completed an end-to-end Mobile In-App Purchase project that mirrors real game studio workflows. I enjoy finding the "counterintuitive" insight hidden in data — the kind that challenges assumptions and leads to better decisions.
 
-📄 My CV: [CV_DA_Intern_BuiNganHa.pdf](#) *(update link after upload)*
-🔗 LinkedIn: [linkedin.com/in/ha-ngan](#) *(update link)*
+📄 My CV: [[CV_DA_Intern_BuiNganHa.pdf]]([url](https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/c690e149598ad8764844b9365497052173eb3d47/CV_DA_Intern_BUINGANHA.pdf))
+🔗 LinkedIn: [[linkedin.com/in/ha-ngan](www.linkedin.com/in/nganha-bui)]
 📧 Email: buinganha.nitc@gmail.com
 
 ---
