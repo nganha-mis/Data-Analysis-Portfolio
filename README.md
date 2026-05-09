@@ -168,5 +168,5 @@ Relevant coursework: Data Analysis · Database Design · Information Systems Ana
 ## Contact
 
 - 📧 Email: buinganha.nitc@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/ha-ngan](#) *(update link)*
+- 💼 LinkedIn: [linkedin.com/in/ha-ngan](www.linkedin.com/in/nganha-bui)
 - 📱 Phone: 0814 670 718
