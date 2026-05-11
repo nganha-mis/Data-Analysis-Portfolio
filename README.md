@@ -33,7 +33,7 @@ I'm particularly drawn to **game analytics and player behavior analysis**, havin
 
 **Tools:** SQL Server · Tableau  
 **Dashboard:** [[View on Tableau Public](https://public.tableau.com/app/profile/ha.ngan/viz/Project_17783070672660/Story1?publish=yes)]
-**SQL Scripts:** [`[mobile_iap_cleaning.sql]((https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/e18109db5626da6a0d345355126d8d8993a6bbfa/game_inapp_purchase.sql))`] 
+**SQL Scripts:** [mobile_iap_cleaning.sql](https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/e18109db5626da6a0d345355126d8d8993a6bbfa/game_inapp_purchase.sql)
 **Dataset:** [Mobile Game In-App Purchases Dataset 2025 - Kaggle](https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025)
 
 **Goal:** Analyze player spending behavior and in-app purchase patterns of a mobile game to surface monetization insights and actionable recommendations.
