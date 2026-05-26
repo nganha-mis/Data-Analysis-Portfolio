@@ -6,9 +6,11 @@ Hi, I'm Hạ! I'm a final-year student majoring in **Management Information Syst
 
 I have a strong interest in data analytics, business intelligence, and turning raw data into actionable insights. My experience spans the full analytics workflow - from data cleaning in SQL to building interactive dashboards in Tableau and Power BI, and presenting findings as data-driven business recommendations.
 
-I'm particularly drawn to **game analytics and player behavior analysis**, having completed an end-to-end Mobile In-App Purchase project that mirrors real game studio workflows. I enjoy finding the "counterintuitive" insight hidden in data - the kind that challenges assumptions and leads to better decisions.
+I'm particularly interested in game analytics and player behavior because I find it interesting how user actions can reflect product problems or business opportunities.
 
-📄 My CV: [[[CV_DA_Intern_BuiNganHa.pdf](https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/c690e149598ad8764844b9365497052173eb3d47/CV_DA_Intern_BUINGANHA.pdf))]]
+Through my Mobile In-App Purchase project, I also realized I enjoy exploring data to find insights that are not obvious at first glance.
+
+📄 My CV: [[CV_DA_Intern_BuiNganHa.pdf](https://github.com/nganha-mis/Data-Analysis-Portfolio/blob/c690e149598ad8764844b9365497052173eb3d47/CV_DA_Intern_BUINGANHA.pdf))]
 🔗 LinkedIn: [[linkedin.com/in/ha-ngan](www.linkedin.com/in/nganha-bui)]
 📧 Email: buinganha.nitc@gmail.com
 
