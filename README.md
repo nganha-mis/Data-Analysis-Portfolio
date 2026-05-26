@@ -41,7 +41,7 @@ Through my Mobile In-App Purchase project, I also realized I enjoy exploring dat
 **Goal:** Analyze player spending behavior and in-app purchase patterns of a mobile game to surface monetization insights and actionable recommendations.
 
 **Description:**  
-End-to-end analytics project on a 3,024-user mobile game IAP dataset. The project covered the full workflow: data cleaning in SQL, building 3 interactive Tableau dashboards, and presenting findings as a Tableau Story with business recommendations.
+Analytics project on a 3,024-user mobile game IAP dataset. The project covered the full workflow: data cleaning in SQL, building 3 interactive Tableau dashboards, and presenting findings as a Tableau Story with business recommendations.
 
 **Data Cleaning (SQL):**
 - Handled null values across 14 columns
